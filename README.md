@@ -1,10 +1,16 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
+# REGISTER NO:25018567
+# NAME:A SARANRAJ
+
 
 **AIM:**
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
 
 **APPARATUS REQUIRED:**
+
+
+
 
 *1.	Regulated Power supply ( RPS)	(0-30 V)*
    
